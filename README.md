@@ -1,6 +1,6 @@
 # 🚜 AgriChain Marketplace Platform 🌱
 
-AgriChain is a decentralized marketplace platform designed to revolutionize the agricultural supply chain. It connects farmers directly with buyers, enabling them to negotiate, make transactions, and execute smart contracts securely. The platform empowers farmers with tools for decision-making, market access, and financial stability.
+AgriChain is a decentralized marketplace platform designed to revolutionize the agriculture sector. It connects farmers directly with buyers, enabling them to negotiate, make transactions, and execute smart contracts securely. The platform empowers farmers with tools for decision-making, market access, and financial stability.
 
 ## 📌 Features
 
