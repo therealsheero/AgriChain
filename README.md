@@ -102,17 +102,11 @@ Contributions are welcome! If you want to contribute to AgriChain, please follow
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 📧 Contact
 
 For further inquiries, reach out to:
 
-- **Email**: your-email@example.com
+- **Email**: e22cseu0631@bennett.edu.in
 - **GitHub**: [therealsheero](https://github.com/therealsheero)
 
 ---
