@@ -77,17 +77,17 @@ AgriChain is a decentralized marketplace platform designed to revolutionize the 
 
 ##  Challenges
 
-1. ** Digital Literacy**: Lack of digital skills among small farmers could hinder platform adoption and success.
-2. ** Trust and Adoption**: Skepticism towards new technologies, particularly blockchain and smart contracts, could slow down platform usage.
-3. ** Infrastructure Challenges**: Uneven internet access in rural areas may lead to inconsistent adoption of the platform.
+1. **Digital Literacy**: Lack of digital skills among small farmers could hinder platform adoption and success.
+2. **Trust and Adoption**: Skepticism towards new technologies, particularly blockchain and smart contracts, could slow down platform usage.
+3. **Infrastructure Challenges**: Uneven internet access in rural areas may lead to inconsistent adoption of the platform.
 
 ---
 
 ## Strategies
 
-1. ** Digital Literacy Training**: Partner with NGOs, universities, and government bodies to provide workshops that boost digital literacy and confidence in the platform.
-2. ** Trust Building**: Demonstrate the platform's benefits through live demonstrations and word-of-mouth promotion to increase trust in the technology.
-3. ** Regulatory Engagement**: Work with regulators to ensure compliance and long-term viability, making the platform a trusted tool for both farmers and buyers.
+1. **Digital Literacy Training**: Partner with NGOs, universities, and government bodies to provide workshops that boost digital literacy and confidence in the platform.
+2. **Trust Building**: Demonstrate the platform's benefits through live demonstrations and word-of-mouth promotion to increase trust in the technology.
+3. **Regulatory Engagement**: Work with regulators to ensure compliance and long-term viability, making the platform a trusted tool for both farmers and buyers.
 
 ---
 
