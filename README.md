@@ -4,32 +4,32 @@ AgriChain is a decentralized marketplace platform designed to revolutionize the 
 
 ## Features
 
-### 1. ** Marketplace Platform**
+### 1. **Marketplace Platform**
    - **For Farmers**: Farmers can create listings with details of their crops, including expected yield, quality, and pricing.
    - **For Buyers**: Buyers can browse listings and place bids on crops, specifying price and quantity. Farmers can accept, reject, or negotiate these offers.
 
-### 2. ** Negotiation System**
+### 2. **Negotiation System**
    - Buyers can negotiate prices with farmers by placing bids, and farmers have the option to accept, reject, or counter-offer based on their preferences.
 
-### 3. ** Contract Templates**
+### 3. **Contract Templates**
    - The platform provides customizable contract templates with predefined terms such as pricing, delivery schedules, payment terms, and penalties.
 
 ### 4. **Smart Contract Integration**
    - Blockchain-based smart contracts ensure transparency and immutability of the agreements between farmers and buyers, promoting trust.
 
-### 5. ** Escrow Service**
+### 5. **Escrow Service**
    - Payments are held in escrow until the contract terms are fulfilled, ensuring both parties’ interests are protected.
 
-### 6. ** Payment Options**
+### 6. **Payment Options**
    - Multiple payment options are available, with the escrow service ensuring that payments are made only once the contract conditions are met.
 
-### 7. ** Market Analytics**
+### 7. **Market Analytics**
    - Powered by AI, the platform offers analytics to help users understand market trends, crop prices, and demand forecasts for better decision-making.
 
-### 8. ** Review System**
+### 8. **Review System**
    - After completing a transaction, users can rate each other, encouraging accountability and trust within the community.
 
-### 9. ** Customer Service**
+### 9. **Customer Service**
    - 24/7 customer support is available to assist users with any technical or operational issues they may face.
 
 ---
